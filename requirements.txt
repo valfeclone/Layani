@@ -1,0 +1,7 @@
+Flask==2.0.1
+flask-ngrok==0.0.25 
+tweepy==3.10.0
+pandas==1.2.4
+tensorflow==2.5.0
+numpy==1.19.2
+nltk==3.6.2
