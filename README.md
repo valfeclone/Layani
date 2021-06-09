@@ -1,4 +1,4 @@
-# ML-Layani
+# Layani
 
 Layani is an application that collects complaints by scraping social media, so it is visible and centralized for the civil servants to solve.
 
